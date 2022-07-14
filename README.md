@@ -6,3 +6,8 @@ Pewlett Hackard is expecting a large number of employees to either retire quite 
 ##
 Results
 ##
+Through database queries analysis, I was able to find that
+--the positions that have the highest number of future retirees are both the Senior Engineer and Senior Staff positions.
+![titles](https://user-images.githubusercontent.com/106573185/178889223-41e4e618-6ba8-4c2b-a62b-dddec7a855cf.png)
+--a majority of those upcoming retirees are eligible for the mentorship program.
+--
